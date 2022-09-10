@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header {
+    padding-top: 7vh;
+    height: 10vh;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+}
+.pic {
+    width: 45vw;
+    height: 25vw;
+}
+main {
+    color: aquamarine;
+    background-color: black;
+}
+.mid {
+    display: flex;
+    justify-content: center;
+}
+.mid2 {
+    display: flex;
+    justify-content: center;
+}
+.mid3 {
+    padding: 10vh 10vh 0vh 10vh;
+    background-color: black;
+}
+.mid_heading {
+    text-align: center;
+}
+.mid3_1 {
+    padding: 10vh 10vh 0vh 10vh;
+    color: aquamarine;
+    background-color: black;
+}
+footer {
+    padding: 5vh;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+}
